@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://down.7tyou.com/download/app/image/lkpy/icon.png</string>
+					<string>http://down.7tyou.com/download/app/image/lkpy/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://down.7tyou.com/download/app/image/lkpy/icon@2x.png</string>
+					<string>http://down.7tyou.com/download/app/image/lkpy/icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
